@@ -1,5 +1,5 @@
 ---
-title: Shop
-layout: product
-permalink: /shooooooop/
+title: #Shop
+layout: #product
+permalink: #/shooooooop/
 ---
