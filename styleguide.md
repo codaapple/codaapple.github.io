@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Styleguide
 layout: page
 permalink: /styleguide/
@@ -204,4 +204,4 @@ permalink: /styleguide/
 
 <hr />
 
-
+ -->
