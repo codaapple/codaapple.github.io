@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: codaapple.github.io
+  repo: sujaykundu777.github.io
   branch: master
   site_domain: agitated-northcutt-53b578.netlify.app
 
