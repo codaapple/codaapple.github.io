@@ -36,7 +36,7 @@ hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg.
 # Experiences
 author_work_experiences:
             - company_name: Bundeswehr
-              company_logo: google.png
+              company_logo: bund.png
               company_url: https://bundeswehr.de
               designation: Projektmanager
               description: Schnittstelle zwischen Backend, Frontend und den Benutzern
@@ -50,7 +50,7 @@ author_work_experiences:
 
 # Education
 author_education_details:
-              - college_logo: mit.png
+              - college_logo: unibw.png
                 college_name: UniBw München
                 college_url: https://unibw.de
                 college_degree: Informatik
