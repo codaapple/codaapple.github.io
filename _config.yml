@@ -46,7 +46,7 @@ author_work_experiences:
               company_url: https://zoewelli.de
               designation: Backend Developer
               description: Schaltungen und so ein Kram
-              visibility: true
+              visibility: false
 
 # Education
 author_education_details:
