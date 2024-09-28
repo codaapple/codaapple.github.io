@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Welcome to devlopr-jekyll !"
-summary: "Getting Started using devlopr-jekyll"
-author: johndoe
-date: '2019-05-22 14:35:23 +0530'
+title:  "Hello, world!"
+summary: "Mein Weg zu dieser Website"
+author: zoewelli
+date: '2024-09-28 11:44:23'
 category: jekyll
 thumbnail: /assets/img/posts/code.jpg
-keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes
-permalink: /blog/welcome-to-devlopr-jekyll/
+keywords: jekyll, devlopr-jekyll, best jekyll themes
+permalink: /blog/hello-world/
 usemathjax: true
 ---
 
