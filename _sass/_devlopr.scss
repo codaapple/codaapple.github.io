@@ -498,7 +498,8 @@ header {
     border: 0px solid #f0f5f6 !important;
 }
 #snipcart-floating-cart{
-    margin-top: 90px !important;
+    margin-top: 90px;
+    display: none !important;
 }
 
 .snipcart-cart-button--secondary {
@@ -509,11 +510,6 @@ header {
 }
 .snipcart-payment-methods__title {
     background-color:  var(--main-background-color) !important;
-}
-
-/* Einkaufswagen ausblenden */
-#snipcart-floating-cart {
-    display: none !important;
 }
 
 /* pagination */
