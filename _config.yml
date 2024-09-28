@@ -33,7 +33,7 @@ author_work_experiences:
             - company_name: Bundeswehr
               company_logo: bund.png
               company_url: https://bundeswehr.de
-              designation: Projektmanager
+              designation: Projektmanager/ISB
               description: Schnittstelle zwischen Backend, Frontend und den Benutzern
               visibility: true
             - company_name: POL
@@ -54,7 +54,7 @@ author_education_details:
               - college_logo: unibw.png
                 college_name: UniBw München
                 college_url: https://unibw.de
-                college_degree: Informatik
+                college_degree: Cybersecurity
                 description: Master of Science
                 visibility: true
 
