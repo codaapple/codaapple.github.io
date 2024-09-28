@@ -26,11 +26,11 @@ urls:
 
 author_logo: profile.png
 author: Zoe Wellershausen
-author_bio: Hi, my name is Zoe Wellershausen. I built this site using devlopr-jekyll as a tool :D
+author_bio: Hi, ich bin Zoe Wellershausen. Ich programmiere und probiere gerne mit Webtools herum :D
 author_email: "software@zoewelli.de"
 author_location: Germany
 author_website_url: "https://zoewelli.de"
-typewrite-text: Was ist der Lieblingsdatentyp eines Geists? Der Boo-lean.
+typewrite-text: Was ist der Lieblingsdatentyp eines Geists? Der Boo-lean!
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
@@ -55,6 +55,12 @@ author_education_details:
                 college_url: https://unibw.de
                 college_degree: Informatik
                 description: Bachelor of Science
+                visibility: true
+              - college_logo: unibw.png
+                college_name: UniBw München
+                college_url: https://unibw.de
+                college_degree: Informatik
+                description: Master of Science
                 visibility: true
 
 # Projects
