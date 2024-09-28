@@ -47,3 +47,19 @@ xplor4r:
       - title: "facebook"
         url: "https://www.facebook.com/sujay.kundu2"
 
+zoewelli:
+  name: Zoe Wellershausen
+  username: zoewelli
+  bio: "Hi, ich bin Zoe, Software Developer, based in Munich, Germany"
+  site: https://zoewelli.de
+  avatar: zoewelli.png
+  email: software@zoewelli.de
+  social:
+      - title: "github"
+        url: "https://github.com/codaapple"
+     -  title: "linkedin"
+        url: ""
+     - title: "youtube"
+        url: ""
+     - title: "instagram"
+        url: ""
