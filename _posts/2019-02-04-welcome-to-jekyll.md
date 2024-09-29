@@ -1,8 +1,8 @@
-<!-- ---
+---
 layout: post
 title:  "Welcome to devlopr-jekyll !"
 summary: "Getting Started using devlopr-jekyll"
-author: johndoe
+author: zoewelli
 date: '2019-05-22 14:35:23 +0530'
 category: jekyll
 thumbnail: /assets/img/posts/code.jpg
@@ -36,4 +36,4 @@ function sum (num1,num2){
 }
 var result = sum(a,b);
 ```
- -->
+

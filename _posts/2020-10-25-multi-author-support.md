@@ -1,8 +1,8 @@
-<!-- ---
+---
 layout: post
 title:  "Added Multi Author Support"
 summary: "Multi Author Support allows to create articles with different Authors"
-author: xplor4r
+author: zoewelli
 date: '2020-10-25 1:35:23 +0530'
 category: jekyll
 thumbnail: /assets/img/posts/code.jpg
@@ -25,7 +25,7 @@ Then add this frontmatter to describe the author in **johndoe.md**.
 ```yml
 ---
 name: John Doe # Name of the Author
-username: johndoe # Username of the Author
+username: zoewelli # Username of the Author
 bio: "Hi I a John, a Web Developer and Designer." # Author Bio
 site: http://johndoe.com  # Author Website URL
 avatar: johndoe.png  # Profile Image (img path will be /assets/img/authors/johndoe.png)
@@ -63,7 +63,7 @@ Next, copy the same frontmatter in _data/authors.yml (under individual author us
 # Author 1
 johndoe:
    name: John Doe
-   username: johndoe
+   username: zoewelli
    site: http://johndoe.com
    avatar: johndoe.png
    bio: "Hi I a John, a Web Developer and Designer."
@@ -95,7 +95,7 @@ johndoe:
 # Author 2
 janedoe:
    name: Jane Doe
-   username: janedoe
+   username: zoewelli
    site: https://janedoe.com
    avatar: jane.png
    bio: "Designer"
@@ -140,4 +140,4 @@ Also, below this article you can see the Author Profile Card , who has written t
 
 Cheers ! Hope You enjoy this new feature. :D
 
- -->
+
