@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 author: johndoe
 title: Netlify CMS created this Article
@@ -31,4 +31,4 @@ And:
 
 You can also add **blockquotes**, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
 
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
+> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.” -->

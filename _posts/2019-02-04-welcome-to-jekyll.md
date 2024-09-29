@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title:  "Welcome to devlopr-jekyll !"
 summary: "Getting Started using devlopr-jekyll"
@@ -36,4 +36,4 @@ function sum (num1,num2){
 }
 var result = sum(a,b);
 ```
-
+ -->

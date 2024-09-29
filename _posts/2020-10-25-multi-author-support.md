@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title:  "Added Multi Author Support"
 summary: "Multi Author Support allows to create articles with different Authors"
@@ -140,4 +140,4 @@ Also, below this article you can see the Author Profile Card , who has written t
 
 Cheers ! Hope You enjoy this new feature. :D
 
-
+ -->
