@@ -11,6 +11,7 @@ permalink: /blog/first-part/
 usemathjax: true
 ---
 
+
 ## #2 The first part...
 
 ... is the worst part.

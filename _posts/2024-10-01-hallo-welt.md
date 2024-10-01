@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "#1 Hallo Welt! [GER]"
-summary: "Using Devlopr-jekyll"
+summary: "devlopr-jekyll benutzen"
 author: zoewelli
 date: '2024-10-01 12:15:12 +0530'
 category: website
