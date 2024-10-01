@@ -2,7 +2,7 @@
 layout: post
 author: zoewelli
 title:  "#2 Aller Anfang... [GER]"
-date: 2024-11-01T13:55:34.613Z
+date: '2024-10-01 12:15:12 +0530'
 thumbnail: /assets/img/posts/code.jpg
 category: scala
 summary: "Scala als Anfänger"
