@@ -3,7 +3,7 @@ layout: post
 title:  "#2 The first part... [ENG]"
 summary: "Scala as a beginner"
 author: zoewelli
-date: '2024-11-01 13:55:34 CET'
+date: '2024-11-01 13:55:34'
 category: ['scala']
 tags: scala
 thumbnail: /assets/img/posts/code.jpg

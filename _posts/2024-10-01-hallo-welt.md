@@ -3,7 +3,7 @@ layout: post
 title:  "#1 Hallo Welt! [GER]"
 summary: "Using Devlopr-jekyll"
 author: zoewelli
-date: '2024-10-01 12:15:12 CET'
+date: '2024-10-01 12:15:12'
 category: ['website']
 tags: website
 thumbnail: /assets/img/posts/code.jpg
