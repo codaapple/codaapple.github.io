@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "No. 1 Hello World! (ENG)"
+title:  "#1 Hello World! [ENG]"
 summary: "Using devlopr-jekyll"
 author: zoewelli
 date: '2024-10-01 12:15:23 +0530'
@@ -12,28 +12,26 @@ usemathjax: true
 ---
 
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+## #1 Hello World!
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Welcome to my very first blog post! I'd like to take you along on my journey into the world of programming and perhaps share a tip or two for aspiring developers.
 
-Jekyll also offers powerful support for code snippets:
+Today, it's all about my own website: [zoewelli.de](https://zoewelli.de).
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
+It was the first time I worked with so many different code snippets in languages like Ruby, YAML, and even pseudo-CSS. Navigating through this code jungle can definitely take time. So if you plan to work with web tools at this level, patience and perseverance are key — *but that's something you already know if you're into coding!*
 
-{% endhighlight %}
+Thankfully, [Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll) showed me how well it can all work together. It's an open-source tool integrated with GitHub that lets you create static websites.
 
-or
+[Devlopr](https://devlopr.netlify.app) by Sujay Kundu is quite an extensive project for a first personal website, but thanks to the extremely understandable code documentation, it's manageable.
 
-```javascript
-var a = 1;
-var b = 2;
-function sum (num1,num2){
-  return num1+num2;
-}
-var result = sum(a,b);
-```
+It took me about a well focused weekend to get everything up and running. It's not all perfect yet, but I'm enthusiastically working on it.
 
+By using Jekyll as a web tool, I had the opportunity to familiarize myself with several new languages—and had a lot of fun doing it!
+
+A big thank you to [@sujaykundu777](https://github.com/sujaykundu777) for providing this website using Jekyll.
+
+
+Since it's October, here's a little joke to wrap things up:
+
+What's a ghost's favorite data type? 
+*The boo-lean!*
