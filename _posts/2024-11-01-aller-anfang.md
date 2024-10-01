@@ -1,16 +1,15 @@
 ---
 layout: post
-title:  "#2 Aller Anfang... [GER]"
-summary: "Scala als Anfänger"
 author: zoewelli
-date: '2024-11-01 13:55:34 +0530'
-category: scala
+title:  "#2 Aller Anfang... [GER]"
+date: 2024-11-01T13:55:34.613Z
 thumbnail: /assets/img/posts/code.jpg
+category: scala
+summary: "Scala als Anfänger"
 keywords: scala, beginner, anfänger
 permalink: /blog/aller-anfang/
 usemathjax: true
 ---
-
 
 ## #2 Aller Anfang...
 
