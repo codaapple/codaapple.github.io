@@ -5,7 +5,7 @@ summary: "Using devlopr-jekyll"
 author: zoewelli
 date: '2024-10-01 12:15:23 +0530'
 category: website
-thumbnail: /assets/img/posts/code.jpg
+thumbnail: /assets/img/posts/gotit.png
 keywords: devlopr jekyll, devlopr
 permalink: /blog/hello-world/
 usemathjax: true

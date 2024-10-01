@@ -3,14 +3,13 @@ layout: post
 title:  "#2 The first part... [ENG]"
 summary: "Scala as a beginner"
 author: zoewelli
-date: '2024-11-01 12:13:12 +0530'
-category: scala
-thumbnail: /assets/img/posts/code.jpg
+date: '2024-11-01 10:15:12 +0530'
+category: website
+thumbnail: /assets/img/posts/coding.png
 keywords: scala, beginner
 permalink: /blog/first-part/
 usemathjax: true
 ---
-
 
 ## #2 The first part...
 
@@ -31,4 +30,3 @@ In the spirit of the season, here's another little joke:
 
 Why is Halloween like Christmas for programmers? 
 *Because Oct 31 = Dec 25!*
-
