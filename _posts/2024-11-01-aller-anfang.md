@@ -5,6 +5,7 @@ summary: "Scala als Anfänger"
 author: zoewelli
 date: '2024-11-01 13:55:34 CET'
 category: ['scala']
+tags: scala
 thumbnail: /assets/img/posts/code.jpg
 keywords: scala, beginner, anfänger
 permalink: /blog/aller-anfang/
