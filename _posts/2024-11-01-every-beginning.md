@@ -2,7 +2,7 @@
 layout: post
 author: zoewelli
 title:  "#2 The first part... [ENG]"
-date: '2024-11-01 12:15:12 +0530'
+date: '2024-11-01 12:13:12 +0530'
 categoriy: scala
 summary: "Scala as a beginner"
 thumbnail: /assets/img/posts/code.jpg
