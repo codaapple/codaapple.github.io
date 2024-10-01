@@ -3,9 +3,8 @@ layout: post
 title:  "#1 Hallo Welt! [GER]"
 summary: "Using Devlopr-jekyll"
 author: zoewelli
-date: '2024-10-01 12:15:12'
-category: ['website']
-tags: website
+date: '2024-10-01 12:15:12 +0530'
+category: website
 thumbnail: /assets/img/posts/code.jpg
 keywords: devlopr jekyll, devlopr
 permalink: /blog/hallo-welt/
