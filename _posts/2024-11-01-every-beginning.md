@@ -1,10 +1,10 @@
 ---
 layout: post
-author: zoewelli
 title:  "#2 The first part... [ENG]"
-date: '2024-11-01 12:13:12 +0530'
-categoriy: scala
 summary: "Scala as a beginner"
+author: zoewelli
+date: '2024-11-01 12:13:12 +0530'
+category: scala
 thumbnail: /assets/img/posts/code.jpg
 keywords: scala, beginner
 permalink: /blog/first-part/
