@@ -2,7 +2,7 @@
 zoewelli:
    name: Zoe Wellershausen
    username: zoewelli
-   site: http://zoewelli.com
+   site: http://zoewelli.de
    avatar: zoewelli.png
    bio: "Hallo, ich bin Zoe, Software Developer und Projektmanager."
    email: software@zoewelli.de
