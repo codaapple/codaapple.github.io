@@ -69,7 +69,7 @@ jobs:
       - name: build jekyll
         run: |
           bundle install
-          bundle exec jekyll build
+          bundle exec jekyll build --verbose
 
       - name: deploy to firebase
         uses: w9jds/firebase-action@master
