@@ -3,7 +3,7 @@ layout: post
 title:  "#3 GGJ25! [DE]"
 summary: "Meine Erfahrungen: Global Gam Jam 2025"
 author: zoewelli
-date: '2025-01-23 21:16:21 +0530'
+date: '2025-01-26 16:16:21 +0530'
 category: gamejam
 thumbnail: /assets/img/posts/gamejam.png
 keywords: gamejam, beginner
@@ -13,7 +13,7 @@ usemathjax: true
 
 ## #3 Global Game Jam 2025!
 
-Der Global Game Jam 2025 war ein großartiges Erlebnis! Unser Team bestand aus zwei erfahrenen Programmierern [Mr Minimal](https://github.com/MrMinimal) und [kelteseth](https://github.com/kelteseth), zwei Artists [KiraCodez](https://github.com/KiraCodez) und [JoeyGartain](https://github.com/JoeyGartain), einem Allrounder [TobyMoby](https://github.com/TobyMoby) und mir als Anfänger. Trotz meiner geringen Erfahrung war jeder sehr hilfsbereit, und wir hatten das ganze Wochenende über jede Menge Spaß.
+Der Global Game Jam 2025 war ein großartiges Erlebnis! Unser Team bestand aus zwei erfahrenen Programmierern [Mr Minimal](https://github.com/MrMinimal) und [Kelteseth](https://github.com/kelteseth), zwei Artists [KiraCodez](https://github.com/KiraCodez) und [JoeyGartain](https://github.com/JoeyGartain), einem Allrounder [TobyMoby](https://github.com/TobyMoby) und mir als Anfänger. Trotz meiner geringen Erfahrung war jeder sehr hilfsbereit, und wir hatten das ganze Wochenende über jede Menge Spaß.
 
 Tag 1 drehte sich komplett um die Ideenfindung. Wir saßen zusammen (und nutzten ein digitales Whiteboard), warfen verrückte Ideen in den Raum und entschieden uns schließlich für Bubble Odysea. Nachdem das Konzept stand, richteten wir unser gemeinsames Arbeitsfeld ein - File-Sharing, Kommunikationstools und Projektmanagement - damit für die eigentliche Arbeit alles vorbereitet war.
 
