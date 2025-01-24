@@ -3,7 +3,7 @@ layout: post
 title:  "#3 GGJ25! [DE]"
 summary: "Meine Erfahrungen: Global Gam Jam 2025"
 author: zoewelli
-date: '2025-01-26 21:16:21 +0530'
+date: '2025-01-23 21:16:21 +0530'
 category: gamejam
 thumbnail: /assets/img/posts/gamejam.png
 keywords: gamejam, beginner
