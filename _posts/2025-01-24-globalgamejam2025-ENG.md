@@ -7,7 +7,7 @@ date: '2025-01-24 23:16:45 +0530'
 category: gamejam
 thumbnail: /assets/img/posts/gamejam.png
 keywords: gamejam, beginner
-permalink: /blog/ggj-2025-de/
+permalink: /blog/ggj-2025-eng/
 usemathjax: true
 ---
 
