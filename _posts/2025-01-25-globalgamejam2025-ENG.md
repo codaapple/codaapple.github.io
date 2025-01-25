@@ -18,7 +18,7 @@ usemathjax: true
 We all gave it our best today: coding, creating new assets, and piecing everything together so we can focus on the final polish tomorrow.
 
 In the morning, our first level still looked pretty rough - as you can see here:
-<hr /><img src="/assets/img/ggj-level1progress.png" class="img-fluid" alt="Progress of the first level"> <hr />
+<hr /> <img src="/assets/img/ggj-level1progress.png" class="img-fluid" alt="Progress of the first level">
  
  Aber mit vereinten Kräften nahm alles zusehends Form an. Unser Multitalent [TobyMoby](https://github.com/TobyMoby) hat sogar noch in der Nacht den gesamten Soundtrack fertiggestellt, sodass wir heute schon in den Genuss unserer eigenen, atmosphärischen Musikuntermalung kommen konnten. 
  
@@ -35,8 +35,6 @@ But with everyone working together, it quickly took shape. Our multitalent [Toby
 
 We refined the level design further and integrated the music, while our programmers worked on collision details and the damage system mechanics. We also implemented the controls for our bubble hero, so we can soon dive into the depths of the ocean.
 
-<hr />
-<img src="/assets/img/bspcode-für-player-controls.png" class="img-fluid" alt="Code example for player controls">
-<hr />
+<hr /> <img src="/assets/img/bspcode-für-player-controls.png" class="img-fluid" alt="Code example for player controls">
 
 Stay tuned and continue to join us on our journey through the enchanting underwater world of [Bubble Odysea](https://globalgamejam.org/games/2025/bubble-odysea-5)! We’ll be back tomorrow with the final update from the Global Game Jam 2025.

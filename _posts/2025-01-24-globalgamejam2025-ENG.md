@@ -21,7 +21,7 @@ This year’s Global Game Jam theme is: **Bubbles**!
 
 Our first big idea is called **Bubble Odysea**. In it, you take on the role of a solitary air bubble making its way through the depths of the sea - rising ever higher, ever farther, past breathtaking coral reefs and dangerous hazards. By tilting your smartphone, you guide our delicate bubble through maze-like levels. Sharp starfish or treacherous currents may lie in wait around every corner, and if you collide with them, your bubble might burst or be otherwise affected. Thankfully, you can find smaller bubbles to replenish your strength - since sometimes you even have to shrink on purpose just to squeeze through narrow passages. The game will be Android-only and is conveniently controlled by tilting the phone.
 
-<hr /> <img src="/assets/img/Kumpelblase.png" class="img-fluid"> <hr />
+<hr /> <img src="/assets/img/Kumpelblase.png" class="img-fluid">
  
  This is our player model! :D We called him Bubble Buddy.
 
