@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "#3 GGJ25 - Tag 2 [DE]"
+title:  "#4 GGJ25 - Tag 2 [DE]"
 summary: "Meine Erfahrungen: Global Gam Jam 2025 - Part 2"
 author: zoewelli
 date: '2025-01-25 23:56:21 +0530'
@@ -15,29 +15,18 @@ usemathjax: true
 
 **Tag 2 beim Global Game Jam 2025 – lasset den Grind beginnen!**
 
-Heute haben wir programmiert, Assets erstellt und alles zusammengeschustert um uns morgen dann noch dem Feinschliff zu widmen.
+Heute haben wir uns alle richtig ins Zeug gelegt: Es wurde programmiert, fleißig neue Assets erstellt und Stück für Stück alles zusammengefügt, damit morgen genug Zeit für den letzten Feinschliff bleibt.
 
-Zuerst sah unser erstes Level noch nicht nach all zu viel aus:
-<hr />
-
- <img src="/assets/img/ggj-level1progress.png" class="img-fluid">
+Am Vormittag sah unser erstes Level noch recht roh aus – wie ihr hier sehen könnt:
+<hr /><img src="/assets/img/ggj-level1progress.png" class="img-fluid" alt="Fortschritt beim ersten Level"> <hr />
  
- Doch mit und mit wurde dann doch ein Schuh aus dem Ganzen. [TobyMoby](https://github.com/TobyMoby) - der Macher - hatte unseren gesamten Soundtrack am Vorabend noch fertig gestellt und somit konnten wir auch diesen heute schon genießen!
+ Aber mit vereinten Kräften nahm alles zusehends Form an. Unser Multitalent [TobyMoby](https://github.com/TobyMoby) hat sogar noch in der Nacht den gesamten Soundtrack fertiggestellt, sodass wir heute schon in den Genuss unserer eigenen, atmosphärischen Musikuntermalung kommen konnten. 
  
- <h3 id="audio-embed">Audio Embed</h3>
+**Hörprobe gefällig?**
+<h3 id="audio-embed">Audio Embed</h3> <audio controls> <source src="/assets/audio/ggj2025_track1.mp3" type="audio/mpeg"> <source src="/assets/audio/ggj2025_track1.ogg" type="audio/ogg"> <!-- Fallback-Text für ältere Browser --> Your browser does not support the audio element. </audio>
 
-<audio controls>
-  <source src="/assets/audio/ggj2025_track1.mp3" type="audio/mpeg">
-  <source src="/assets/audio/ggj2025_track1.ogg" type="audio/ogg">
-  <!-- Fallback-Text für ältere Browser -->
-  Your browser does not support the audio element.
-</audio>
+Die Level wurden weiter verfeinert und wir haben die Musik eingebunden, während unsere Programmierer an den Feinheiten der Kollisionen tüftelten und Mechaniken fürs Schadenssystem entwickelten. Auch die Steuerung unseres Bubble-Helden wurde implementiert, damit wir bald in die Tiefen der Meere abtauchen können.
 
-Wir haben also Level Designed, Musik geaddet und Programmiert, wie welche Collisions zu funktionieren haben, was beim Schaden nehmen passiert oder generell wie der playercharacter gesteuert wird etc.
+<hr /> <img src="/assets/img/bspcode-für-player-controls.png" class="img-fluid" alt="Codebeispiel für Player-Controls"> <hr />
 
-<hr />
-
- <img src="/assets/img/bspcode-für-player-controls.png" class="img-fluid">
-
-
-Bleibt gespannt und taucht mit uns ab in die wundervolle Welt von [Bubble Odysea](https://globalgamejam.org/games/2025/bubble-odysea-5) – wir hören uns morgen mit den neuesten Updates!
+Bleibt gespannt und begleitet uns weiterhin auf unserem Weg durch die wundervolle Unterwasserwelt von [Bubble Odysea](https://globalgamejam.org/games/2025/bubble-odysea-5)! Wir melden uns morgen mit dem letzten Update zum Global Game Jam 2025.
