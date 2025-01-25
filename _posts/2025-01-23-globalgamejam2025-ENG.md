@@ -1,30 +1,28 @@
 ---
 layout: post
-title:  "#3 GGJ25! [ENG]"
-summary: "My experience at the Global Gam Jam 2025"
+title:  "#3 GGJ25 - Day 1 [ENG]"
+summary: "My experience: Global Gam Jam 2025 - Part 1"
 author: zoewelli
-date: '2025-01-26 16:15:12 +0530'
+date: '2025-01-24 23:16:45 +0530'
 category: gamejam
 thumbnail: /assets/img/posts/gamejam.png
 keywords: gamejam, beginner
-permalink: /blog/ggj-2025-eng/
+permalink: /blog/ggj-2025-de/
 usemathjax: true
 ---
 
 ## #3 Global Game Jam 2025!
 
-Global Game Jam 2025 was an amazing experience! Our team consisted of two experienced programmers [Mr Minimal](https://github.com/MrMinimal) and [Kelteseth](https://github.com/kelteseth), two artists [KiraCodez](https://github.com/KiraCodez) and [JoeyGartain](https://github.com/JoeyGartain), one all-rounder [TobyMoby](https://github.com/TobyMoby), and me as the beginner. Despite my limited experience, everyone was super supportive, and we had a blast throughout the entire weekend.
+**Day 1 at Global Game Jam 2025 – The Adventure Begins!**
 
-Day 1 was all about brainstorming. We gathered around a table (and a digital whiteboard), tossing around crazy ideas until we found something we all loved: Bubble Odysea. Once the concept was set, we organized our work environment—file-sharing, communication tools, and project management boards - so everything was ready for the real action.
+Today was the first day, and we immediately assembled our fantastic team: two experienced programmers [Mr Minimal](https://github.com/MrMinimal) and [Kelteseth](https://github.com/kelteseth), two artists [KiraCodez](https://github.com/KiraCodez) and [JoeyGartain](https://github.com/JoeyGartain), one all-rounder [TobyMoby](https://github.com/TobyMoby), and myself as a beginner and Social Media Manager for this blog.
 
-Day 2 was when we got down to business. The programmers began coding the labyrinth mechanics and tilt controls, while our artists started creating deep-sea backgrounds and adorable bubble animations. Meanwhile, our all-rounder hopped between tasks, helping wherever needed - whether it was designing levels or fixing bugs. As a beginner, I focused on simple coding tasks and assisted with level design, learning a ton along the way.
+This year’s Global Game Jam theme is: **Bubbles**!
 
-Day 3 brought the final push. Everyone was in high gear, polishing assets, smoothing out the controls, and making sure Bubble Odysea felt both challenging and fun. The game’s premise is straightforward: you guide a bubble through various undersea labyrinths by tilting your phone. Your aim is to reach an ascending stream of bubbles that propels you to the next level. Each stage introduces more complex obstacles, and if you collide with sharp objects like starfish or shards, your bubble shrinks. After three hits, it pops, and the mission fails. Luckily, collecting smaller bubbles can help you grow again. Sometimes you even need to stay small on purpose to slip through tight passages. With each level you ascend, more trash clutters the water. Eventually, you realize the surface world you’re heading toward is already ruined - a dark twist that gave our little game some narrative depth.
+Our first big idea is called **Bubble Odysea**. In it, you take on the role of a solitary air bubble making its way through the depths of the sea - rising ever higher, ever farther, past breathtaking coral reefs and dangerous hazards. By tilting your smartphone, you guide our delicate bubble through maze-like levels. Sharp starfish or treacherous currents may lie in wait around every corner, and if you collide with them, your bubble might burst or be otherwise affected. Thankfully, you can find smaller bubbles to replenish your strength - since sometimes you even have to shrink on purpose just to squeeze through narrow passages. The game will be Android-only and is conveniently controlled by tilting the phone.
 
-All in all, the jam was a fantastic learning opportunity. Working side by side with pros and seeing our idea come to life in just three days was nothing short of exhilarating. I’m already counting the days until the next Global Game Jam!
+To get things rolling immediately, we set up a shared [GitHub Repository](https://github.com/MrMinimal/ggj-2025), where you can check out our progress any time. The artists started working on level design and character models on day one, while the programmers dove into the [Godot Engine 4.4 Beta1](https://godotengine.org/) to lay the groundwork for our deep-sea dream.
 
-Check out our [GitHub Repository](https://github.com/MrMinimal/ggj-2025). Our game is available for Android only!
+Sometime before midnight, we settled into our makeshift sleeping arrangements, ready to dive back in on Day 2 of the jam with renewed energy. I’m already head-over-heels for our little bubble adventure and can’t wait to finally get my hands on the first playable levels!
 
-In the spirit of Valentine's day, here's a little poem:
-
-Errors are red, my screen is blue. Someone help me, I've deleted 'Sys32'.
+Stay tuned and come explore the wonderful world of [Bubble Odysea](https://globalgamejam.org/games/2025/bubble-odysea-5) with us - we’ll be back tomorrow with the latest updates!
