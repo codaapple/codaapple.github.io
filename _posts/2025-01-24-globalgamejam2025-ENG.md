@@ -24,6 +24,7 @@ Our first big idea is called **Bubble Odysea**. In it, you take on the role of a
 <hr />
 
  <img src="/assets/img/Kumpelblase.png" class="img-fluid">
+ 
  This is our player model! :D We called him Bubble Buddy.
 
 To get things rolling immediately, we set up a shared [GitHub Repository](https://github.com/MrMinimal/ggj-2025), where you can check out our progress any time. The artists started working on level design and character models on day one, while the programmers dove into the [Godot Engine 4.4 Beta1](https://godotengine.org/) to lay the groundwork for our deep-sea dream.

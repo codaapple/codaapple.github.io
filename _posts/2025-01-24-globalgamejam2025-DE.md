@@ -24,6 +24,7 @@ Unsere erste große Idee trägt den Namen **Bubble Odysea**. Hier schlüpft man 
 <hr />
 
  <img src="/assets/img/Kumpelblase.png" class="img-fluid">
+ 
  Das ist unser Spielercharakter! :D Wir haben ihn Kumpelblase getauft.
 
 Um direkt loslegen zu können, haben wir ein gemeinsames [GitHub Repository](https://github.com/MrMinimal/ggj-2025) angelegt, wo ihr jederzeit unsere Fortschritte verfolgen könnt. Die Artists haben noch am selben Tag mit Level- und Charakterdesign begonnen, während die Programmierer fleißig an der [Godot Engine 4.4 Beta1](https://godotengine.org/) rumwerkeln, um das Grundgerüst für unseren Tiefseetraum zu bauen.
