@@ -21,6 +21,11 @@ Das diesjährige Thema des Global Game Jams: **Bubbles**!
 
 Unsere erste große Idee trägt den Namen **Bubble Odysea**. Hier schlüpft man in die Rolle einer einsamen Luftblase auf ihrem Weg durch die Tiefsee – immer höher, immer weiter, vorbei an eindrucksvollen Korallen und gefährlichen Hindernissen. Mit der Neigung des Smartphones steuern wir unsere zarte Bubble durch labyrinthartige Levels. Scharfe Seesterne oder gefährlich Strömungen lauern an jeder Ecke, und wenn wir sie rammen, zerplatzt unsere Blase oder wird anderweitig beeinflusst. Zum Glück finden sich auch kleinere Bläschen, um wieder Kraft zu tanken – denn manchmal muss man sogar ganz bewusst schrumpfen, um durch enge Passagen zu gelangen. Alles in allem soll es nur für Android verfügbar sein und lässt sich bequem durch Neigen des Handys steuern.
 
+<hr />
+
+ <img src="/assets/img/Kumpelblase.png" class="img-fluid">
+ Das ist unser Spielercharakter! :D Wir haben ihn Kumpelblase getauft.
+
 Um direkt loslegen zu können, haben wir ein gemeinsames [GitHub Repository](https://github.com/MrMinimal/ggj-2025) angelegt, wo ihr jederzeit unsere Fortschritte verfolgen könnt. Die Artists haben noch am selben Tag mit Level- und Charakterdesign begonnen, während die Programmierer fleißig an der [Godot Engine 4.4 Beta1](https://godotengine.org/) rumwerkeln, um das Grundgerüst für unseren Tiefseetraum zu bauen.
 
 Irgendwann kurz vor Mitternacht haben wir unser improvisiertes Nachtlager aufgeschlagen, damit wir am nächsten Morgen voller Tatendrang in den zweiten Jam-Tag starten können. Ich bin jetzt schon total verliebt in unser kleines Blasen-Abenteuer und kann es kaum erwarten, wenn wir endlich die ersten spielbaren Levels in Händen halten!
