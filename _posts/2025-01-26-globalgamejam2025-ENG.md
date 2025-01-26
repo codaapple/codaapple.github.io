@@ -42,5 +42,14 @@ I couldn’t be prouder of our team and what we accomplished. Sure, there were c
 
 This weekend wasn’t just about making a game—it was about creativity, collaboration, and community. I feel lucky to have been surrounded by so much talent and inspiration. Here's to an unforgettable Global Game Jam 2025 experience—until next year!
 
-### Gameplay
-<iframe src="https://player.vimeo.com/video/1050489003?h=8c4a4a838d&amp;title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="2340" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" title="Bubble_Odysea_Gameplay"></iframe>
+<h3>Gameplay</h3>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+  <iframe 
+    src="https://player.vimeo.com/video/1050489003?h=8c4a4a838d&amp;title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+    frameborder="0" 
+    allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" 
+    allowfullscreen 
+    title="Bubble_Odysea_Gameplay">
+  </iframe>
+</div>

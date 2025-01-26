@@ -42,5 +42,14 @@ Ich könnte nicht stolzer auf unser Team und das sein, was wir erreicht haben. N
 
 Dieses Wochenende war nicht nur eine Gelegenheit, ein Spiel zu machen – es war eine Feier von Kreativität, Zusammenarbeit und Gemeinschaft. Ich fühle mich glücklich, von so viel Talent und Inspiration umgeben gewesen zu sein. Hiermit verabschiede ich mich von einem unvergesslichen Global Game Jam 2025 – bis nächstes Jahr!
 
-### Gameplay
-<iframe src="https://player.vimeo.com/video/1050489003?h=8c4a4a838d&amp;title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="2340" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" title="Bubble_Odysea_Gameplay"></iframe>
+<h3>Gameplay</h3>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+  <iframe 
+    src="https://player.vimeo.com/video/1050489003?h=8c4a4a838d&amp;title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+    frameborder="0" 
+    allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" 
+    allowfullscreen 
+    title="Bubble_Odysea_Gameplay">
+  </iframe>
+</div>
