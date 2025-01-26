@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "#4 GGJ25 - Tag 3 [DE]"
+title:  "#5 GGJ25 - Tag 3 [DE]"
 summary: "Meine Erfahrung: Global Gam Jam 2025 - Part 3"
 author: zoewelli
-date: '2025-01-25 17:51:32 +0530'
+date: '2025-01-26 17:51:32 +0530'
 category: ggj25
 thumbnail: /assets/img/posts/morecoding.png
 keywords: gamejam, beginner
