@@ -31,8 +31,7 @@ Unser Allrounder und musikalisches Genie [TobyMoby](https://github.com/TobyMoby)
 **Hörprobe gefällig?**
 
 <audio controls> 
-  <source src="/assets/sounds/ggj2025_track1.mp3" type="audio/mpeg"> 
-  <source src="/assets/sounds/ggj2025_track1.ogg" type="audio/ogg"> 
+ <source src="/assets/sounds/ggj2025_track1.wav" type="audio/wav">
   <!-- Fallback-Text für ältere Browser --> Your browser does not support the audio element. 
 </audio>
 
