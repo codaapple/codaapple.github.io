@@ -31,7 +31,7 @@ Our all-rounder and musical genius [TobyMoby](https://github.com/TobyMoby) pulle
 **Want to listen?**
 
 <audio controls> 
-  <source src="/assets/sounds/ggj2025_track1.wav" type="audio/wav">  
+  <source src="/assets/img/audio/ggj2025_track1.mp3" type="audio/mpeg">  
   <!-- Fallback text for older browsers --> Your browser does not support the audio element. 
 </audio>
 
