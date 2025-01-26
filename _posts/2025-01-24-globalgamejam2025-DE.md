@@ -4,7 +4,7 @@ title:  "#3 GGJ25 - Tag 1 [DE]"
 summary: "Meine Erfahrungen: Global Gam Jam 2025 - Part 1"
 author: zoewelli
 date: '2025-01-24 23:16:21 +0530'
-category: gamejam
+category: ggj25, gamejam
 thumbnail: /assets/img/posts/gamejam.png
 keywords: gamejam, beginner
 permalink: /blog/ggj-2025-de/
