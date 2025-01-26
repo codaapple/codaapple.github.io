@@ -41,3 +41,6 @@ But what impressed me most was seeing the incredible projects from the other gro
 I couldn’t be prouder of our team and what we accomplished. Sure, there were challenges along the way, but we powered through, learned a lot, and created something we’re genuinely proud of. Our mobile minigame, [**Bubble Odysea**](https://globalgamejam.org/games/2025/bubble-odysea-5), is now complete, and I can’t wait for others to try it out!
 
 This weekend wasn’t just about making a game—it was about creativity, collaboration, and community. I feel lucky to have been surrounded by so much talent and inspiration. Here's to an unforgettable Global Game Jam 2025 experience—until next year!
+
+### Gameplay
+<iframe src="https://player.vimeo.com/video/1050489003?h=8c4a4a838d&amp;title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="2340" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" title="Bubble_Odysea_Gameplay"></iframe>
