@@ -29,10 +29,10 @@ But with teamwork and dedication, it started to take shape. Our artists refined 
 Our all-rounder and musical genius [TobyMoby](https://github.com/TobyMoby) pulled an all-nighter to finish the entire soundtrack for *Bubble Odysea*! Today, we were thrilled to experience the atmospheric music that perfectly complements the underwater theme. It’s a true highlight that brings our game to life.
 
 **Want to listen?**
-<h3 id="audio-embed">Audio Embed</h3> 
+
 <audio controls> 
-  <source src="/assets/audio/ggj2025_track1.mp3" type="audio/mpeg"> 
-  <source src="/assets/audio/ggj2025_track1.ogg" type="audio/ogg"> 
+  <source src="/assets/sounds/ggj2025_track1.mp3" type="audio/mpeg"> 
+  <source src="/assets/sounds/ggj2025_track1.ogg" type="audio/ogg"> 
   <!-- Fallback text for older browsers --> Your browser does not support the audio element. 
 </audio>
 
