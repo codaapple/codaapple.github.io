@@ -21,7 +21,7 @@ Das diesjährige Thema des Global Game Jams: **Bubbles**!
 
 Unsere erste große Idee trägt den Namen **Bubble Odysea**. Hier schlüpft man in die Rolle einer einsamen Luftblase auf ihrem Weg durch die Tiefsee – immer höher, immer weiter, vorbei an eindrucksvollen Korallen und gefährlichen Hindernissen. Mit der Neigung des Smartphones steuern wir unsere zarte Bubble durch labyrinthartige Levels. Scharfe Seesterne oder gefährlich Strömungen lauern an jeder Ecke, und wenn wir sie rammen, zerplatzt unsere Blase oder wird anderweitig beeinflusst. Zum Glück finden sich auch kleinere Bläschen, um wieder Kraft zu tanken – denn manchmal muss man sogar ganz bewusst schrumpfen, um durch enge Passagen zu gelangen. Alles in allem soll es nur für Android verfügbar sein und lässt sich bequem durch Neigen des Handys steuern.
 
-<hr /> <img src="/assets/img/Kumpelblase.png" class="img-fluid"> 
+<hr /> <img src="/assets/img/GGJ25/Kumpelblase.png" class="img-fluid"> 
  
  Das ist unser Spielercharakter! :D Wir haben ihn Kumpelblase getauft.
 
