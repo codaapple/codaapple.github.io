@@ -5,7 +5,7 @@ summary: "My experience: Global Gam Jam 2025 - Part 3"
 author: zoewelli
 date: '2025-01-26 17:52:43 +0530'
 category: ggj25
-thumbnail: /assets/img/posts/morecoding.png
+thumbnail: /assets/img/me/morecoding.png
 keywords: gamejam, beginner
 permalink: /blog/ggj-2025-3-en/
 usemathjax: true
@@ -18,16 +18,15 @@ usemathjax: true
 The final day was here, and it was time to wrap everything up. We polished our game, added the last finishing touches, and got ready for the afternoon presentation.
 
 Of course, it wouldn’t be a Game Jam without some funny fails along the way. Take a look at this mishap while adding shaders:
-<hr />
 <img src="/assets/img/GGJ25/shader_failure.png" class="img-fluid" alt="Failure in Shaderadding">
+<hr />
 
 Despite a few hiccups, some adorable assets came together - like this shark:
-<hr />
 <img src="/assets/img/GGJ25/shark.png" class="img-fluid" alt="Shark">
 
 Or this trash bag featuring a very familiar logo:
-<hr />
 <img src="/assets/img/GGJ25/Do_you_ever_feel_like_a.png" class="img-fluid" alt="Godot Trash Bag">
+<hr />
 
 ### The Final Push
 As the clock ticked down, there was still some time pressure, even with our well-oiled team. But in the end, we succeeded in creating a fun and fully playable mobile game. From its charming levels to the little narrative twist, *Bubble Odysea* turned out to be everything we hoped for when we started this journey three days ago.

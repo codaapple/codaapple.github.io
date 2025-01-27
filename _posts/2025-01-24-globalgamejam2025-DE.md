@@ -5,7 +5,7 @@ summary: "Meine Erfahrungen: Global Gam Jam 2025 - Part 1"
 author: zoewelli
 date: '2025-01-24 23:16:21 +0530'
 category: ggj25
-thumbnail: /assets/img/posts/gamejam.png
+thumbnail: /assets/img/me/gamejam.png
 keywords: gamejam, beginner
 permalink: /blog/ggj-2025-de/
 usemathjax: true

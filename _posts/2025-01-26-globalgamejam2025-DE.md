@@ -5,7 +5,7 @@ summary: "Meine Erfahrung: Global Gam Jam 2025 - Part 3"
 author: zoewelli
 date: '2025-01-26 17:51:32 +0530'
 category: ggj25
-thumbnail: /assets/img/posts/morecoding.png
+thumbnail: /assets/img/me/morecoding.png
 keywords: gamejam, beginner
 permalink: /blog/ggj-2025-3-de/
 usemathjax: true
@@ -18,16 +18,15 @@ usemathjax: true
 Der letzte Tag war da, und es war Zeit, alles abzuschließen. Wir haben unser Spiel finalisiert, die letzten Details hinzugefügt und uns auf die Nachmittagspräsentation vorbereitet.
 
 Natürlich wäre ein Game Jam nicht vollständig ohne ein paar lustige Fails. Schaut euch diesen kleinen Patzer beim Hinzufügen von Shadern an:
-<hr />
 <img src="/assets/img/GGJ25/shader_failure.png" class="img-fluid" alt="Shader-Fehler">
+<hr />
 
 Trotz ein paar Schwierigkeiten entstanden auch einige süße Assets – wie dieser Hai:
-<hr />
 <img src="/assets/img/GGJ25/shark.png" class="img-fluid" alt="Hai">
 
 Oder diese Mülltüte mit einem sehr bekannten Logo:
-<hr />
 <img src="/assets/img/GGJ25/Do_you_ever_feel_like_a.png" class="img-fluid" alt="Godot-Mülltüte">
+<hr />
 
 ### Der letzte Feinschliff
 Während die Uhr unerbittlich tickte, standen wir unter leichtem Zeitdruck, selbst mit unserem eingespielten Team. Doch am Ende haben wir es geschafft, ein lustiges und voll spielbares Mobile Game zu entwickeln. Von den charmanten Levels bis hin zu dem kleinen narrativen Twist wurde *Bubble Odysea* genau das, was wir uns zu Beginn dieser Reise vor drei Tagen erhofft hatten.

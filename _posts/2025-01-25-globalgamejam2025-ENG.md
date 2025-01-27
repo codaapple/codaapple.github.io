@@ -5,7 +5,7 @@ summary: "My experience: Global Gam Jam 2025 - Part 2"
 author: zoewelli
 date: '2025-01-25 23:56:43 +0530'
 category: ggj25
-thumbnail: /assets/img/gamingcoder.png
+thumbnail: /assets/img/me/gamingcoder.png
 keywords: gamejam, beginner
 permalink: /blog/ggj-2025-2-en/
 usemathjax: true
@@ -31,7 +31,7 @@ Our all-rounder and musical genius [TobyMoby](https://github.com/TobyMoby) pulle
 **Want to listen?**
 
 <audio controls> 
-  <source src="/assets/img/audio/ggj2025_track1.mp3" type="audio/mpeg">  
+  <source src="/assets/img/GGJ25/ggj2025_track1.mp3" type="audio/mpeg">  
   <!-- Fallback text for older browsers --> Your browser does not support the audio element. 
 </audio>
 
