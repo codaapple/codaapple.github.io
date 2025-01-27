@@ -19,15 +19,15 @@ The final day was here, and it was time to wrap everything up. We polished our g
 
 Of course, it wouldn’t be a Game Jam without some funny fails along the way. Take a look at this mishap while adding shaders:
 <hr />
-<img src="assets/img/GGJ25/shader_failure.png" class="img-fluid" alt="Failure in Shaderadding">
+<img src="/assets/img/GGJ25/shader_failure.png" class="img-fluid" alt="Failure in Shaderadding">
 
 Despite a few hiccups, some adorable assets came together - like this shark:
 <hr />
-<img src="assets/img/GGJ25/shark.png" class="img-fluid" alt="Shark">
+<img src="/assets/img/GGJ25/shark.png" class="img-fluid" alt="Shark">
 
 Or this trash bag featuring a very familiar logo:
 <hr />
-<img src="assets/img/GGJ25/Do_you_ever_feel_like_a.png" class="img-fluid" alt="Godot Trash Bag">
+<img src="/assets/img/GGJ25/Do_you_ever_feel_like_a.png" class="img-fluid" alt="Godot Trash Bag">
 
 ### The Final Push
 As the clock ticked down, there was still some time pressure, even with our well-oiled team. But in the end, we succeeded in creating a fun and fully playable mobile game. From its charming levels to the little narrative twist, *Bubble Odysea* turned out to be everything we hoped for when we started this journey three days ago.
